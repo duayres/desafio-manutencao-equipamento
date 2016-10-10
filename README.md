@@ -1,2 +1,2 @@
 #let's do this... leeeeeeeeeeeeeeeeerrrooy..
-..jenkins.. constant integrations XD
+..jenkins.. continuous integrations XD
