@@ -1,0 +1,1 @@
+#pasta de proposito geral, de trabalho: livre
