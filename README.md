@@ -1,3 +1,2 @@
-#let's do this... leeeeeeeeeeeeeeeeerrrooy..
-..jenkins.. continuous integrations XD
-teste 123
+#Desafio de Análise (Parte 1) para a EITS
+Apresentação dia 27/10 11:00AM
